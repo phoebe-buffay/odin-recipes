@@ -1,0 +1,15 @@
+* {
+  background-color: bisque;
+}
+
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+  font-size: 45px;
+  text-decoration-line: underline;
+  text-decoration-thickness: auto;
+}
+
+li h4 {
+  font-size: 35px;
+}
