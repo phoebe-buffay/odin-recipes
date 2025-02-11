@@ -20,4 +20,7 @@ img {
 h2 {
   font-size: 20px;
   text-align: center;
+  display: block;
+  padding: 25px 50px;
+  margin: 20px;
 }
